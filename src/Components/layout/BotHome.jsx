@@ -13,7 +13,7 @@ function BotHome() {
           <p> </p>
         </div>
         <div className={styles.bhvideo}>
-        <iframe width="800" height="445" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="800" height="445" src="https://www.youtube.com/embed/_OzZrHs49cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div>
             <CardBlog />

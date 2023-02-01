@@ -6,7 +6,7 @@ import AdmPic from '../images/AdmPic.png'
 function AdmProfPic() {
   return(
     <div className={styles.uppcircle}>
-        <img src={AdmPic} alt="profile picture" />
+        <img src={AdmPic} alt="profile" />
     </div>
   )
 }

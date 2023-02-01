@@ -2,7 +2,6 @@ import React from "react";
 import { useNavigate } from 'react-router-dom'
 
 import CreateLogin from "../layout/CreateLogin.jsx"
-import CreateLgForm from "../project/CreateLgForm.jsx";
 import './LoginCreate.css'
 
 

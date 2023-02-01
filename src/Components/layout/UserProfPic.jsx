@@ -6,7 +6,7 @@ import BUPerfil from '../images/BUPerfil.png'
 function UserProfPic() {
   return(
     <div className={styles.uppcircle}>
-        <img src={BUPerfil} alt="profile picture" />
+        <img src={BUPerfil} alt="profile" />
     </div>
   )
 }

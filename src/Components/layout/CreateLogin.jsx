@@ -3,11 +3,8 @@ import React from 'react'
 import "./CreateLogin.css"
 import LogoFooter from '../images/LogoFooter.png'
 import CreateLgForm from '../project/CreateLgForm.jsx'
-import { useState } from 'react'
 
 function CreateLogin({ btnText, hSubmit, userData }) {
-  
-  const [user, setUser] = useState(userData || {})
   
   return(
     <div className='loginbody'>
